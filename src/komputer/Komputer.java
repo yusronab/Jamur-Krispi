@@ -1,4 +1,4 @@
-package practice.komputer;
+package komputer;
 public class Komputer {
     private String brand;
     private String model;

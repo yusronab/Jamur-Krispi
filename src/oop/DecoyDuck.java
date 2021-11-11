@@ -1,4 +1,4 @@
-package practice.oop;
+package oop;
 
 public class DecoyDuck extends Duck {
 

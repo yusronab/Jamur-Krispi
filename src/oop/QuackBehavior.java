@@ -1,4 +1,4 @@
-package practice.oop;
+package oop;
 
 public interface QuackBehavior {
     public void quack();

@@ -1,4 +1,4 @@
-package practice.komputer;
+package komputer;
 public interface AppInterface {
     final int ADD_DATA_KOMPUTER = 1;
     final int SEARCH_BY_BRAND = 2;

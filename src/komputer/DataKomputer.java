@@ -1,4 +1,4 @@
-package practice.komputer;
+package komputer;
 
 import javax.swing.JOptionPane;
 

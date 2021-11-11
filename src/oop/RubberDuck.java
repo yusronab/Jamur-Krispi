@@ -1,4 +1,4 @@
-package practice.oop;
+package oop;
 
 public class RubberDuck extends Duck{
 
